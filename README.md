@@ -6,6 +6,9 @@ Education, Specialization Certificates
 **C & System Programmers Association**
 - *Aug 08,  2019* -	C Programming Language, 170-Hour
 
+**Delft University of Technology, Delft**
+- *Mar 16,  2019* -	Introduction into Finite Elements and Algorithms, 1-Week
+
 
 **Coursera**
 - *June 16, 2020* - [Machine Learning, Stanford Online](https://www.coursera.org/account/accomplishments/certificate/XSGXUK2MG5HV)  
